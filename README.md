@@ -39,4 +39,4 @@ Boosting Reasoning in Large Multimodal Models via Activation Replay</a></h3>
 Thanks for their wonderful work!
 - [VLMEvalKit](https://github.com/open-compass/VLMEvalKit.git)
 - [DeepEyes](https://github.com/Visual-Agent/DeepEyes)
-- [video-r1](https://github.com/tulerfeng/Video-R1)
+- [Video-R1](https://github.com/tulerfeng/Video-R1)
